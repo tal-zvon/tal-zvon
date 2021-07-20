@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="66.437813"
+   height="20"
+   role="img"
+   aria-label="Python"
+   version="1.1"
+   id="svg913"
+   sodipodi:docname="macOS.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)">
+  <metadata
+     id="metadata919">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Python</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs917" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1306"
+     id="namedview915"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="7.3731346"
+     inkscape:cx="9.6461195"
+     inkscape:cy="35.406848"
+     inkscape:window-x="1920"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg913" />
+  <title
+     id="title887">Python</title>
+  <linearGradient
+     id="s"
+     x2="0"
+     y2="36.60601"
+     gradientTransform="scale(1.8303005,0.54635836)"
+     x1="0"
+     y1="0"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#bbb"
+       stop-opacity=".1"
+       id="stop889" />
+    <stop
+       offset="1"
+       stop-opacity=".1"
+       id="stop891" />
+  </linearGradient>
+  <clipPath
+     id="r">
+    <rect
+       width="67"
+       height="20"
+       rx="3"
+       fill="#ffffff"
+       id="rect894"
+       x="0"
+       y="0" />
+  </clipPath>
+  <g
+     clip-path="url(#r)"
+     id="g903"
+     transform="scale(0.99160912,1)">
+    <rect
+       width="0"
+       height="20"
+       fill="#555555"
+       id="rect897"
+       x="0"
+       y="0" />
+    <rect
+       x="0"
+       width="67"
+       height="20"
+       fill="#05122a"
+       id="rect899"
+       y="0" />
+    <rect
+       width="67"
+       height="20"
+       fill="url(#s)"
+       id="rect901"
+       style="fill:url(#s)"
+       x="0"
+       y="0" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:11px;line-height:1.25;font-family:sans-serif"
+     x="22.90918"
+     y="14"
+     id="text935"><tspan
+       sodipodi:role="line"
+       id="tspan933"
+       x="22.90918"
+       y="14"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;-inkscape-font-specification:'Verdana, Geneva, DejaVu Sans, sans-serif';fill:#ffffff">macOS</tspan></text>
+  <path
+     style="fill:#ffffff;stroke-width:0.014013"
+     d="m 15.339146,15.420618 c -0.759504,0.737082 -1.59748,0.622176 -2.39622,0.274654 -0.849187,-0.354528 -1.625506,-0.376949 -2.522337,0 -1.1168343,0.482047 -1.7095843,0.341917 -2.3822063,-0.274654 -3.797519,-3.909622 -3.237,-9.8651392 1.078999,-10.0893472 1.0467703,0.05605 1.7796493,0.578736 2.3962203,0.622176 0.916448,-0.186372 1.793661,-0.720267 2.77457,-0.650202 1.178492,0.09529 2.059909,0.560519 2.648454,1.397094 -2.424246,1.457351 -1.849714,4.6523112 0.376949,5.5491412 -0.445613,1.170084 -1.017342,2.326155 -1.97583,3.180947 z M 11.429523,5.2892318 c -0.113505,-1.73761 1.2948,-3.166934 2.914701,-3.307064 0.222807,2.003857 -1.821687,3.503246 -2.914701,3.307064 z"
+     id="path852" />
+</svg>
