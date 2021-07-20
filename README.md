@@ -1,6 +1,12 @@
 ![Tal Banner](https://raw.githubusercontent.com/tal-zvon/tal-zvon/main/assets/Vitaliy_Zvonarov.png)
 
-- 👋 Hi, I’m Vitaliy Zvonarov
+<img alt="Hand_Wave" src="https://raw.githubusercontent.com/tal-zvon/tal-zvon/main/assets/Hand_Wave.gif" width='70' align="left"/><h2>Hey there! I'm Vitaliy</h2>
+
+<br>
+
+### About Me
+
+- 😄 Pronouns: __he/him/his__.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
