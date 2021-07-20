@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="MikroTikScript.svg"
+   id="svg913"
+   version="1.1"
+   aria-label="Python"
+   role="img"
+   height="20"
+   width="110.92364">
+  <metadata
+     id="metadata919">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Python</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs917" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg913"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="1920"
+     inkscape:cy="-4.0735165"
+     inkscape:cx="72.029343"
+     inkscape:zoom="10.427187"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview915"
+     inkscape:window-height="1306"
+     inkscape:window-width="2560"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <title
+     id="title887">Python</title>
+  <linearGradient
+     gradientUnits="userSpaceOnUse"
+     y1="0"
+     x1="0"
+     gradientTransform="scale(1.8303005,0.54635836)"
+     y2="36.60601"
+     x2="0"
+     id="s">
+    <stop
+       id="stop889"
+       stop-opacity=".1"
+       stop-color="#bbb"
+       offset="0" />
+    <stop
+       id="stop891"
+       stop-opacity=".1"
+       offset="1" />
+  </linearGradient>
+  <clipPath
+     id="r">
+    <rect
+       y="0"
+       x="0"
+       id="rect894"
+       fill="#ffffff"
+       rx="3"
+       height="20"
+       width="67" />
+  </clipPath>
+  <g
+     transform="scale(1.6555767,1)"
+     id="g903"
+     clip-path="url(#r)">
+    <rect
+       y="0"
+       x="0"
+       id="rect897"
+       fill="#555555"
+       height="20"
+       width="0" />
+    <rect
+       y="0"
+       id="rect899"
+       fill="#05122a"
+       height="20"
+       width="67"
+       x="0" />
+    <rect
+       y="0"
+       x="0"
+       style="fill:url(#s)"
+       id="rect901"
+       fill="url(#s)"
+       height="20"
+       width="67" />
+  </g>
+  <text
+     aria-hidden="true"
+     x="425"
+     y="150"
+     fill="#010101"
+     fill-opacity="0.3"
+     transform="scale(0.1)"
+     textLength="390"
+     id="text907"
+     lengthAdjust="spacing"
+     style="font-size:110px;font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;text-anchor:middle;text-rendering:geometricPrecision">Python</text>
+  <text
+     id="text935"
+     y="14"
+     x="22.90918"
+     style="font-size:11px;line-height:1.25;font-family:sans-serif"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;-inkscape-font-specification:'Verdana, Geneva, DejaVu Sans, sans-serif';fill:#ffffff"
+       y="14"
+       x="22.90918"
+       id="tspan933"
+       sodipodi:role="line">MikroTik Script</tspan></text>
+  <path
+     d="M 8.8924762,1.4064183 C 9.8685188,8.1798425 13.503115,12.291615 20.911741,12.629356 13.930714,15.300304 6.7358876,9.0226474 8.8924762,1.4064183"
+     style="fill:#676867;fill-rule:evenodd;stroke-width:0.309855"
+     id="path972" />
+  <path
+     d="m 5.0192923,2.599359 c 0.083661,-0.018591 0.092956,0.037183 0.099153,0.099153 0.2354896,4.3193748 2.0574355,7.594539 4.4712045,9.834789 C 12.003418,14.77355 15.244497,16.5862 19.814854,16.505638 11.256668,19.914041 2.2615853,11.724581 5.0161938,2.599359"
+     style="fill:#676867;fill-rule:evenodd;stroke-width:0.309855"
+     id="path974" />
+</svg>
