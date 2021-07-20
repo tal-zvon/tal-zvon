@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   sodipodi:docname="MikroTikScript.svg"
-   id="svg913"
-   version="1.1"
-   aria-label="Python"
-   role="img"
+   width="110.92364"
    height="20"
-   width="110.92364">
+   role="img"
+   aria-label="Python"
+   version="1.1"
+   id="svg913"
+   sodipodi:docname="MikroTikScript.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)">
   <metadata
      id="metadata919">
     <rdf:RDF>
@@ -30,115 +30,105 @@
   <defs
      id="defs917" />
   <sodipodi:namedview
-     inkscape:current-layer="svg913"
-     inkscape:window-maximized="1"
-     inkscape:window-y="23"
-     inkscape:window-x="1920"
-     inkscape:cy="-4.0735165"
-     inkscape:cx="72.029343"
-     inkscape:zoom="10.427187"
-     fit-margin-bottom="0"
-     fit-margin-right="0"
-     fit-margin-left="0"
-     fit-margin-top="0"
-     showgrid="false"
-     id="namedview915"
-     inkscape:window-height="1306"
-     inkscape:window-width="2560"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1306"
+     id="namedview915"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="10.427187"
+     inkscape:cx="72.029343"
+     inkscape:cy="-4.0735165"
+     inkscape:window-x="1920"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg913" />
   <title
      id="title887">Python</title>
   <linearGradient
-     gradientUnits="userSpaceOnUse"
-     y1="0"
-     x1="0"
-     gradientTransform="scale(1.8303005,0.54635836)"
-     y2="36.60601"
+     id="s"
      x2="0"
-     id="s">
+     y2="36.60601"
+     gradientTransform="scale(1.8303005,0.54635836)"
+     x1="0"
+     y1="0"
+     gradientUnits="userSpaceOnUse">
     <stop
-       id="stop889"
-       stop-opacity=".1"
+       offset="0"
        stop-color="#bbb"
-       offset="0" />
-    <stop
-       id="stop891"
        stop-opacity=".1"
-       offset="1" />
+       id="stop889" />
+    <stop
+       offset="1"
+       stop-opacity=".1"
+       id="stop891" />
   </linearGradient>
   <clipPath
      id="r">
     <rect
-       y="0"
-       x="0"
-       id="rect894"
-       fill="#ffffff"
-       rx="3"
+       width="67"
        height="20"
-       width="67" />
+       rx="3"
+       fill="#ffffff"
+       id="rect894"
+       x="0"
+       y="0" />
   </clipPath>
   <g
-     transform="scale(1.6555767,1)"
+     clip-path="url(#r)"
      id="g903"
-     clip-path="url(#r)">
+     transform="scale(1.6555767,1)">
     <rect
-       y="0"
-       x="0"
-       id="rect897"
+       width="0"
+       height="20"
        fill="#555555"
-       height="20"
-       width="0" />
-    <rect
-       y="0"
-       id="rect899"
-       fill="#05122a"
-       height="20"
-       width="67"
-       x="0" />
-    <rect
-       y="0"
+       id="rect897"
        x="0"
-       style="fill:url(#s)"
-       id="rect901"
-       fill="url(#s)"
+       y="0" />
+    <rect
+       x="0"
+       width="67"
        height="20"
-       width="67" />
+       fill="#05122a"
+       id="rect899"
+       y="0" />
+    <rect
+       width="67"
+       height="20"
+       fill="url(#s)"
+       id="rect901"
+       style="fill:url(#s)"
+       x="0"
+       y="0" />
   </g>
   <text
-     aria-hidden="true"
-     x="425"
-     y="150"
-     fill="#010101"
-     fill-opacity="0.3"
-     transform="scale(0.1)"
-     textLength="390"
-     id="text907"
-     lengthAdjust="spacing"
-     style="font-size:110px;font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;text-anchor:middle;text-rendering:geometricPrecision">Python</text>
-  <text
-     id="text935"
-     y="14"
-     x="22.90918"
+     xml:space="preserve"
      style="font-size:11px;line-height:1.25;font-family:sans-serif"
-     xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;-inkscape-font-specification:'Verdana, Geneva, DejaVu Sans, sans-serif';fill:#ffffff"
-       y="14"
-       x="22.90918"
+     x="22.90918"
+     y="14"
+     id="text935"><tspan
+       sodipodi:role="line"
        id="tspan933"
-       sodipodi:role="line">MikroTik Script</tspan></text>
+       x="22.90918"
+       y="14"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;-inkscape-font-specification:'Verdana, Geneva, DejaVu Sans, sans-serif';fill:#ffffff">MikroTik Script</tspan></text>
   <path
-     d="M 8.8924762,1.4064183 C 9.8685188,8.1798425 13.503115,12.291615 20.911741,12.629356 13.930714,15.300304 6.7358876,9.0226474 8.8924762,1.4064183"
+     id="path972"
      style="fill:#676867;fill-rule:evenodd;stroke-width:0.309855"
-     id="path972" />
+     d="M 8.8924762,1.4064183 C 9.8685188,8.1798425 13.503115,12.291615 20.911741,12.629356 13.930714,15.300304 6.7358876,9.0226474 8.8924762,1.4064183" />
   <path
-     d="m 5.0192923,2.599359 c 0.083661,-0.018591 0.092956,0.037183 0.099153,0.099153 0.2354896,4.3193748 2.0574355,7.594539 4.4712045,9.834789 C 12.003418,14.77355 15.244497,16.5862 19.814854,16.505638 11.256668,19.914041 2.2615853,11.724581 5.0161938,2.599359"
+     id="path974"
      style="fill:#676867;fill-rule:evenodd;stroke-width:0.309855"
-     id="path974" />
+     d="m 5.0192923,2.599359 c 0.083661,-0.018591 0.092956,0.037183 0.099153,0.099153 0.2354896,4.3193748 2.0574355,7.594539 4.4712045,9.834789 C 12.003418,14.77355 15.244497,16.5862 19.814854,16.505638 11.256668,19.914041 2.2615853,11.724581 5.0161938,2.599359" />
 </svg>
