@@ -44,6 +44,7 @@ __Languages__ <br>
 ![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
+![macOS](https://raw.githubusercontent.com/tal-zvon/tal-zvon/main/assets/macOS.svg)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 <br> __Frameworks__ <br>
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
