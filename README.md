@@ -37,14 +37,15 @@ __Languages__ <br>
 <br> __CI__ <br>
 ![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 <br> __Operating System__ <br>
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![macOS](https://raw.githubusercontent.com/tal-zvon/tal-zvon/main/assets/macOS.svg)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
+![Red Hat](https://raw.githubusercontent.com/tal-zvon/tal-zvon/main/assets/RedHat.svg)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
-![macOS](https://raw.githubusercontent.com/tal-zvon/tal-zvon/main/assets/macOS.svg)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 <br> __Frameworks__ <br>
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
