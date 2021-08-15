@@ -52,3 +52,10 @@ __Languages__ <br>
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+
+### 💻 &nbsp;My Latest Work
+![Python Linux Service](https://github.com/tal-zvon/python_linux_service)
+
+![Rust Generic Types in Method Definitions](https://dev.to/talzvon/rust-generic-types-in-method-definitions-4iah)
+
+![Handling Unix Kill Signals in Rust](https://dev.to/talzvon/handling-unix-kill-signals-in-rust-55g6)
