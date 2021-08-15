@@ -54,8 +54,8 @@ __Languages__ <br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
 ### 💻 &nbsp;My Latest Work
-![Python Linux Service](https://github.com/tal-zvon/python_linux_service) (![YouTube Demo](https://youtu.be/hg-YWVz6J-Y))
+[Python Linux Service](https://github.com/tal-zvon/python_linux_service) ([YouTube Demo](https://youtu.be/hg-YWVz6J-Y))
 
-![Rust Generic Types in Method Definitions](https://dev.to/talzvon/rust-generic-types-in-method-definitions-4iah)
+[Rust Generic Types in Method Definitions](https://dev.to/talzvon/rust-generic-types-in-method-definitions-4iah)
 
-![Handling Unix Kill Signals in Rust](https://dev.to/talzvon/handling-unix-kill-signals-in-rust-55g6)
+[Handling Unix Kill Signals in Rust](https://dev.to/talzvon/handling-unix-kill-signals-in-rust-55g6)
